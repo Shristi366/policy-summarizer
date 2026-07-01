@@ -195,41 +195,6 @@ Benefits:
 
 ---
 
-# Policy Documents Tested
-
-The tool was tested with three fictional P&C insurance policy documents:
-
-## 1. Auto Insurance Policy
-
-Contains:
-
-* Vehicle coverage details
-* Accident coverage
-* Deductibles
-* Claim conditions
-
-## 2. Travel Insurance Policy
-
-Contains:
-
-* Trip coverage
-* Medical coverage
-* Cancellation benefits
-* Exclusions
-
-## 3. Home Insurance Policy
-
-Contains:
-
-* Property coverage
-* Damage protection
-* Coverage limits
-* Excluded events
-
-All documents are fictional and contain no proprietary or client information.
-
----
-
 # Example Output
 
 When the tool processes a policy document, it generates four sections:
